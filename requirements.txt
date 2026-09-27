@@ -1,0 +1,8 @@
+PyPDF2==3.0.1
+gTTS==2.4.0
+pyttsx3==2.90
+ffmpeg-python==0.2.1
+requests==2.31.0
+python-dotenv==1.0.0
+click==8.1.7
+progressbar33==1.10.0
